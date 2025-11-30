@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Disease": "Influenza",
+    "Symptom": "High Fever",
+    "Medication": "Oseltamivir"
+  },
+  {
+    "ID": 2,
+    "Disease": "Bacterial Pneumonia",
+    "Symptom": "Shortness of Breath",
+    "Medication": "Antibiotics"
+  },
+  {
+    "ID": 3,
+    "Disease": "Gastroenteritis",
+    "Symptom": "Diarrhea",
+    "Medication": "Hydration"
+  },
+  {
+    "ID": 4,
+    "Disease": "Constipation",
+    "Symptom": "Infrequent Bowel Movements",
+    "Medication": "Fiber and Laxatives"
+  },
+  {
+    "ID": 5,
+    "Disease": "Asthma",
+    "Symptom": "Wheezing",
+    "Medication": "Inhaled Corticosteroids"
+  }
+]
